@@ -1,5 +1,5 @@
 import { ClientComponent } from './client'
-import { testClientCode } from 'action-lib'
+import { testClientCode } from 'client-lib'
 
 // this direct import does not work either
 // import { testClientCode } from 'action-lib/clientCode'
